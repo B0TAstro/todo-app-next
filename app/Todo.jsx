@@ -1,4 +1,3 @@
-
 import { revalidateTag } from "next/cache";
 import React from "react";
 import { getBaseUrl } from "./utils/config";
